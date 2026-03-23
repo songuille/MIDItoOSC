@@ -37,4 +37,4 @@ MIDItoOSC helps you monitor MIDI events and get OSC equivalent commands quickly 
 
 ## Contact
 
-For support requests, use the contact channel configured by the app publisher.
+For support requests, email: **songuille@icloud.com**
